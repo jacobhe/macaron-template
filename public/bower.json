@@ -1,0 +1,19 @@
+{
+  "name": "vote",
+  "version": "0.0.0",
+  "authors": [
+    "kaha <kaha2010@gmail.com>"
+  ],
+  "description": "vote",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "vote"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
